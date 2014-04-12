@@ -26,7 +26,7 @@
 
 		}
 
-		echo $sum;
+		echo "The sum of all numbers divisible by 3 or 5 less than " . ($max + 1) ." is " . $sum;
 
 	}
 
