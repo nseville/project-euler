@@ -8,7 +8,6 @@
 	/**
 	 * Finds the sum of all the numbers divisible by 3 or 5 under a specified number
 	 * @param  Max    $max  The upper bound number.
-	 * @return Status
 	 */ 
 	function question1($max) {	
 		$sum = 0;
